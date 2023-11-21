@@ -145,7 +145,9 @@ i {
     display: flex;
     flex-direction: row;
 }
-
+.p{
+    margin-bottom: 2%;
+}
 .p p {
     flex-direction: row;
     margin: 3%;
